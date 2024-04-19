@@ -12,6 +12,7 @@
 
 ## Комментарии
 класс cycle реализован в файлах cycle.h, cycle.cpp
+
 класс rectangle реализован в файлах rectangle.h, rectangle.cpp
 
 множество фигур храним в set
